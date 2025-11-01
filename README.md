@@ -160,7 +160,7 @@ Access the website at 👉 [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📈 Learning: 
+## 📈 Learning Outcomes: 
 
 **Technical Focus:**
 
