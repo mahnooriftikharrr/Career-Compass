@@ -1,7 +1,7 @@
 <!-- 🌍 Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=🌐+F1+Internships+Website;Helping+International+Students+with+Internship+Search;Built+with+React%2C+Node.js%2C+and+MySQL+💻✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=🌐+F1+Internships+Website;Helping+International+Students;Built+with+React%2C+Node.js%2C+and+MySQL+💻✨" alt="Typing Animation" />
 </p>
 
 ---
@@ -160,7 +160,7 @@ Access the website at 👉 [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 📈 For Recruiters
+## 📈 Learning: 
 
 **Technical Focus:**
 
@@ -195,6 +195,3 @@ Passionate about **tech accessibility**, **product building**, and **empowering 
 📫 [LinkedIn](https://www.linkedin.com/in/mahnooriftikharrr)
 📧 [iftikhm@plu.edu](mailto:iftikhm@plu.edu) | [mahnooriftikharr@gmail.com](mailto:mahnooriftikharr@gmail.com)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding girl animation"/>
-</p>
